@@ -195,7 +195,7 @@ ul {
 }
 
 /* Tablet Styles */
-@media only screen and (min-width: 401px) and (max-width: 960px) {
+@media only screen and (min-width: 401px) and (max-width: 1020px) {
     .navbar-wrapper {
         display: none;
     }
@@ -225,7 +225,4 @@ ul {
     }
 }
 
-/* Desktop Styles */
-@media only screen and (min-width: 961px) {
 
-}
